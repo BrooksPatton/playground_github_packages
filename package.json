@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrooksPatton/playground_github_packages/issues"
   },
-  "homepage": "https://github.com/BrooksPatton/playground_github_packages#readme"
+  "homepage": "https://github.com/BrooksPatton/playground_github_packages#readme",
+  "publishConfig": {
+   "@brookspatton:registry": "https://npm.pkg.github.com"
+ }
 }
